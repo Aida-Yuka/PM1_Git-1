@@ -6,11 +6,10 @@
 int main()
 {
     std::cout << "Hello VisualStudio Git!\n";
-    std::cout << "PullRequest branch changed\n";
-
+    
     std::cout << "ARASHI\n";
     std::cout << "ARASHI\n";
-    std::cout << "for Dream~\n"
+    std::cout << "for Dream~\n";
     
 }
 
